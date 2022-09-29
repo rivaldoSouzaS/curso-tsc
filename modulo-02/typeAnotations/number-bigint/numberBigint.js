@@ -1,0 +1,11 @@
+"use strict";
+let number1 = 23.0;
+let number2 = 0x78cf;
+let number3 = 0o577;
+let number4 = 0b11100;
+console.log(number1);
+console.log(number2);
+console.log(number3);
+console.log(typeof (number4));
+let big1 = 576849485095487629456n;
+console.log(big1);
